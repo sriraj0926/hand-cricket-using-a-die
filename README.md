@@ -36,6 +36,6 @@ This is a simple dice game implemented using the Pygame library in Python. In th
 - Certain events trigger sounds or special effects during gameplay.
 
 ## Credits
-This game is created by [Your Name].
+This game is created by Sriraj Ghali.
 Feel free to contribute or report any issues on GitHub.
 
